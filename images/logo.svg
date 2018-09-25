@@ -51,14 +51,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.94316065"
-     inkscape:cx="585.01138"
-     inkscape:cy="755.48913"
+     inkscape:cx="431.27299"
+     inkscape:cy="626.71097"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-text-baseline="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="837"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -149,7 +149,7 @@
            style="stroke-width:3.4115212">M</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:136.46084595px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:3.4115212"
+       style="font-style:normal;font-weight:normal;font-size:136.46084595px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3e4cb9;fill-opacity:1;stroke:none;stroke-width:3.4115212;"
        x="52.418457"
        y="223.07788"
        id="text905"
@@ -158,14 +158,14 @@
          x="52.418457"
          y="223.07788"
          id="tspan903"
-         style="stroke-width:3.4115212"><tspan
+         style="stroke-width:3.4115212;fill:#3e4cb9;fill-opacity:1;"><tspan
            x="52.418457"
            y="223.07788"
            id="tspan901"
-           style="stroke-width:3.4115212">H</tspan></tspan></text>
+           style="stroke-width:3.4115212;fill:#3e4cb9;fill-opacity:1;">H</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:136.46084595px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:3.4115212"
+       style="font-style:normal;font-weight:normal;font-size:136.46084595px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#16acb9;fill-opacity:1;stroke:none;stroke-width:3.4115212;"
        x="4.7862911"
        y="151.2334"
        id="text899"
@@ -174,14 +174,14 @@
          x="4.7862911"
          y="151.2334"
          id="tspan897"
-         style="stroke-width:3.4115212"><tspan
+         style="stroke-width:3.4115212;fill:#16acb9;fill-opacity:1;"><tspan
            x="4.7862911"
            y="151.2334"
            id="tspan895"
-           style="stroke-width:3.4115212">M</tspan></tspan></text>
+           style="stroke-width:3.4115212;fill:#16acb9;fill-opacity:1;">M</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:136.46084595px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:3.4115212;"
+       style="font-style:normal;font-weight:normal;font-size:136.46084595px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#16acb9;fill-opacity:1;stroke:none;stroke-width:3.4115212;"
        x="88.362152"
        y="116.14905"
        id="text899-0"
@@ -190,10 +190,10 @@
          x="88.362152"
          y="116.14905"
          id="tspan897-1"
-         style="stroke-width:3.4115212;fill:#808080;"><tspan
+         style="stroke-width:3.4115212;fill:#16acb9;fill-opacity:1;"><tspan
            x="88.362152"
            y="116.14905"
            id="tspan895-4"
-           style="stroke-width:3.4115212;fill:#808080;">M</tspan></tspan></text>
+           style="stroke-width:3.4115212;fill:#16acb9;fill-opacity:1;">M</tspan></tspan></text>
   </g>
 </svg>
